@@ -1,4 +1,4 @@
-import{d as r,l as s,a as J,b as T,t as a,e as R,c as E,p as q,f as o,h as t}from"./texts-DRpTSM7O.js";import{S as C,a as V,b as D,c as H}from"./FooterBottom-BlQeAYBw.js";import{S as _}from"./Row-BNJDXJUe.js";import{S as $}from"./Picture-Bw_qRSk2.js";import{r as e}from"./vue.esm-bundler-DD7xIM0D.js";import"./_plugin-vue_export-helper-DlAUqK2U.js";import"./lazysizes-C_krz_Ug.js";const j=`[
+import{d as r,l as s,a as J,b as T,t as a,e as R,c as E,p as q,f as o,h as t}from"./texts-DRpTSM7O.js";import{S as C,a as V,b as D,c as H}from"./FooterBottom-BlQeAYBw.js";import{S as _}from"./Row-BNJDXJUe.js";import{S as $}from"./Picture-KDXJRyj_.js";import{r as e}from"./vue.esm-bundler-DD7xIM0D.js";import"./_plugin-vue_export-helper-DlAUqK2U.js";import"./lazysizes-DRnWiMDM.js";const j=`[
 {
 url: string;
 text: string

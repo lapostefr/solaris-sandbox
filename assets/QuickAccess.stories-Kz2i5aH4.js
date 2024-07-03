@@ -1,4 +1,4 @@
-import{a}from"./chunk-MZXVCX43-DWuJqIWT.js";import{S as l}from"./QuickAccess-BDEO9Fwr.js";import{S as n}from"./Picture-Bw_qRSk2.js";import"./v4-D8aEg3BZ.js";import"./vue.esm-bundler-DD7xIM0D.js";import"./_plugin-vue_export-helper-DlAUqK2U.js";import"./lazysizes-C_krz_Ug.js";const c=`[
+import{a}from"./chunk-MZXVCX43-DWuJqIWT.js";import{S as l}from"./QuickAccess-BDEO9Fwr.js";import{S as n}from"./Picture-KDXJRyj_.js";import"./v4-D8aEg3BZ.js";import"./vue.esm-bundler-DD7xIM0D.js";import"./_plugin-vue_export-helper-DlAUqK2U.js";import"./lazysizes-DRnWiMDM.js";const c=`[
   {
     image?: {
       width?: number,
