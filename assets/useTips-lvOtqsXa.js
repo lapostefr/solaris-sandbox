@@ -1,0 +1,1 @@
+import{r as u,o as n,a as r}from"./vue.esm-bundler-DD7xIM0D.js";function b(e,a,v,s){const l=u(!0),t=u(""),i=()=>{e.value=!e.value},c=()=>{l.value=!l.value};return n(()=>{e.value=a.isClosable?a.isClosable:e.value}),r(()=>{if(a.isCollapse){const o=s.value;t.value=o&&o.id?o.id:"collapsible"}}),{isVisible:l,isOpenCollapse:e,ariaControlCollapse:t,collapse:i,close:c}}export{b as u};
