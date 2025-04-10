@@ -1,0 +1,1 @@
+var e=(r=>(r.BLANK="_blank",r.SELF="_self",r.PARENT="_parent",r.TOP="_top",r.FRAMENAME="framename",r))(e||{}),E=(r=>(r.BOTH="noopener noreferrer",r.NOREFERRER="noreferrer",r.NOOPENER="noopener",r))(E||{});export{e as L,E as a};

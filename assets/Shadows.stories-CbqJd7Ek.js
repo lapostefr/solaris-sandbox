@@ -1,0 +1,6 @@
+import{d as i,r as w,f as a,g as e,F as l,z as _,y as r,A as m,v as u}from"./vue.esm-bundler-BiAlgFmf.js";import{_ as S}from"./_plugin-vue_export-helper-DlAUqK2U.js";const p=i({name:"Shadows",props:{},setup(){return{shadow:w(["shadow-1","shadow-2","shadow-3","shadow-4","shadow-5","shadow-6"])}}}),f={class:"shadows"},y={class:"shadow__title"};function g(t,v,k,x,M,$){return a(),e("div",f,[(a(!0),e(l,null,_(t.shadow,o=>(a(),e("div",{key:o,class:"shadow__container"},[r("div",y,m(o),1),r("div",{class:u(o)},null,2)]))),128))])}const h=S(p,[["render",g],["__scopeId","data-v-7a0bb1ed"]]);p.__docgenInfo={displayName:"Shadows",exportName:"default",description:"",tags:{},sourceFiles:["/Users/jchourdeaux/workspace/projects/solaris/vue3/src/assets/styles/stories/shadows/Shadows.vue"]};const N={title:"Tokens/Shadows",component:h,tags:["!autodocs"]},s=()=>({components:{MyShadows:h},template:"<MyShadows />"});var d,n,c;s.parameters={...s.parameters,docs:{...(d=s.parameters)==null?void 0:d.docs,source:{originalSource:`() => ({
+  components: {
+    MyShadows
+  },
+  template: '<MyShadows />'
+})`,...(c=(n=s.parameters)==null?void 0:n.docs)==null?void 0:c.source}}};const b=["Shadows"];export{s as Shadows,b as __namedExportsOrder,N as default};

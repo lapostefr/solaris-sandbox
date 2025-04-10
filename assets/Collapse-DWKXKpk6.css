@@ -1,0 +1,1 @@
+.collapse-enter-active,.collapse-leave-active{transition:all var(--transition-2) ease-in-out;overflow:hidden;will-change:height;backface-visibility:hidden}.collapse-enter,.collapse-leave-to{height:0;opacity:0}

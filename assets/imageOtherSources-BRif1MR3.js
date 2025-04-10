@@ -1,0 +1,1 @@
+const e=[{url:"https://placehold.co/500x200",mimeType:"image/jpeg",device:1280},{url:"https://placehold.co/400x150",mimeType:"image/jpeg",device:992},{url:"https://placehold.co/375x375",mimeType:"image/jpeg",device:640}];export{e as o};

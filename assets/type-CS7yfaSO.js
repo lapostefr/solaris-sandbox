@@ -1,0 +1,1 @@
+var u=(r=>(r.NeutralSoft="neutral-soft",r.NeutralMedium="neutral-medium",r.PrimaryMedium="primary-medium",r))(u||{}),e=(r=>(r.Bold="bold",r.Light="light",r.Regular="regular",r))(e||{});export{e as S,u as a};

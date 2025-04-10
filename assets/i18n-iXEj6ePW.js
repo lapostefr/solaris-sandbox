@@ -1,0 +1,1 @@
+function t(e,r,u="descriptions"){var c,o;try{return(o=(c=e==null?void 0:e.stories)==null?void 0:c[u])!=null&&o[r]?e.stories[u][r]:r}catch{return console.warn(`Clé de traduction non trouvée: ${r} dans la section ${u}`),r}}export{t};

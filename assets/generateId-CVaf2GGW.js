@@ -1,0 +1,1 @@
+const l={bind:(t,e)=>{t.id=o(e.value)}},o=t=>{let e;do e=Math.floor(Math.random()*1e4);while(e<1e3);return t.length?`${t}${e}`:`element--${e}`},n=Object.freeze(Object.defineProperty({__proto__:null,default:l,fixValueId:o},Symbol.toStringTag,{value:"Module"}));export{n as _,o as f,l as g};
